@@ -1,0 +1,18 @@
+     Due Sunday by 11:59pm Points 10 Submitting a text entry box
+
+This week's assignment is to get set up with node on engineering server and GitHub. It is primarily a technical hurdle that needs to be overcome. If all goes smoothly this should be a 20 minute process, but be prepared for things to not go smoothly. Make sure to get started early on this as it can take awhile to troubleshoot problems.
+
+Last term we made a change and started to run the node on engineering server instead of Amazon server.  It is a new infrastructure.  If you run into any issues, please check/post on Piazza for clarifications.
+
+Requirements:
+
+    Set up Node on Engineering servers
+    Start the Node.js process
+    Create a GitHub account (and I would highly recommend requesting a student dev pack as well from https://education.github.com/ (Links to an external site.), you get a premium account for free and some other neat software)
+    Create a GitHub repository and add some content to it
+
+Deliverables:
+
+    The address where we can access Node on Engineering Servers. (This will be an IP address in the form of http://access.engr.oregonstate.edu:xxxx)
+    A link to your GitHub repository where you have added OSU-CS290-Tester as a collaborator
+        This repository should have at least 2 files added to it.
